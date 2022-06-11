@@ -1,10 +1,10 @@
 # Hey there, I'm Patrick Hintermayer 👋
 
-I'm an IT Consultant and passionate software developer with interests in economics, psychology, cyber security, gaming and SciFi.
+I'm an Team Lead for Web Development and a passionate software developer with interests in economics, psychology, cyber security, gaming and SciFi.
 
 I'm specialized in web development and see myself as a full stack web developer.
 
-My current interests are: Go, Rust and Svelte
+My current interests are: TypeScript, Go, C# and Flutter
 
 ## Languages
 ### Programming / Scripting languages
