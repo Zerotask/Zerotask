@@ -18,3 +18,6 @@ ASP.NET (C#), Laravel (PHP), Symfony (PHP), Spring (Java), Actix (Rust), Svelte 
 
 ## Databases
 MySQL, MariaDB, PostgreSQL, MongoDB, Elasticsearch, Redis
+
+## Contact
+Discord: Ragath#2539
