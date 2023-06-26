@@ -4,8 +4,6 @@ I'm an Team Lead for Web Development and a passionate software developer with in
 
 I'm specialized in web development and see myself as a full stack web developer.
 
-My current interests are: Python, C# and Flutter.
-
 ## Languages
 ### Programming / Scripting languages
 PHP, JavaScript, TypeScript, Java, C#, Go, Rust, Python, Dart
