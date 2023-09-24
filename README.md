@@ -1,6 +1,6 @@
 # Hey there, I'm Patrick Hintermayer 👋
 
-I'm an Team Lead for Software Engineering and a passionate software developer with interests in economics, psychology, hiking, gaming and SciFi (especially Star Trek).
+I'm a Team Lead for Software Engineering and a passionate software developer with interests in economics, psychology, hiking, gaming and SciFi (especially Star Trek).
 
 I'm specialized in web development and see myself as a full stack web developer, though I slightly prefer backend development.
 
